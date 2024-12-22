@@ -36,4 +36,3 @@ function() {
     work[i].style.display ="block";
   }
   this.style.display="none";
-}
